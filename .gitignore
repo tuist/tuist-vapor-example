@@ -10,3 +10,6 @@ db.sqlite
 .env.*
 ! .env.example
 .vscode
+*.xcworkspace
+*.xcodeproj
+Derived/
