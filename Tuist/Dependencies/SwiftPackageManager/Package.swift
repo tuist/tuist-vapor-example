@@ -4,6 +4,6 @@ import PackageDescription
 let package = Package(
     name: "PackageName",
     dependencies: [
-        .package(url: "https://github.com/vapor/vapor.git", .upToNextMinor(from: "4.83.1")),
+        .package(url: "https://github.com/vapor/vapor.git", .upToNextMinor(from: "4.106.0")),
     ]
 )
